@@ -49,8 +49,8 @@ Location:	Arco della Pace 6, Rome, Lazio, Italië
 * **21:49 - 06:35:  [Home](https:maps.google.nl/?q=41.886206573,12.4715751321)**
 
 Summary
-*  Walking: 236 minuten, 15 km
-*  Running: 95 minuten, 16 km
+*  Walking: 236 minutes, 15 km
+*  Running: 95 minutes, 16 km
 
 
 **07:26:47 Morning run**
