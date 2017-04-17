@@ -11,6 +11,9 @@ The script will try to fetch data from your Moves and Strava account. It will cr
 of activities based on your Moves data. Then it will use the GPS data to create a Google map image
 depicting where you've been that day, colored by type of activity.
 
+Finally it will open the DayOne app where you can make some adjustments, like change the date and time,
+add images and comments etc.
+
 Output example:
 
 ![Rome](Rome.jpeg?raw=true "Rome")
