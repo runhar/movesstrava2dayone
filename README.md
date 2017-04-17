@@ -1,8 +1,8 @@
 # movesstrava2dayone
 Pythonista script for creating daily overview in Day One, using Google map, Moves and Strava
 
-Little IOS Pythonista script to fetch data from Moves and Strava to create a daily overview
-for the IOS DayOne app. For this to run you'll need a Moves and a Strava developer account.
+Little iOS Pythonista script to fetch data from Moves and Strava to create a daily overview
+for the iOS DayOne app. For this to run you'll need a Moves and a Strava developer account.
 Store the access tokens in keychain: keychain.set_password('moves', 'api','youraccesstoken').
 Start the script in the Pythonista app, and enter the day you want to create an item for:
 0 is today, 1 is yesterday etc.
